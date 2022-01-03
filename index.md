@@ -5,12 +5,6 @@ layout: default
 
 # Using R for Biostatistics II
 
-<p>
-    Fall 2022, Thursdays 10:30-12:00.
-    <br>
-    Room 400, Doctors Office Building, 66 North Pauline St. 
-</p>
-
 <p class="address">
     Instructor: Xiaoyu Liang
     <br>
@@ -26,6 +20,14 @@ layout: default
 </p>
 
 <!--{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}-->
+## Time and Place
+<p>
+    Lectures: Thursdays 10:30-12:00.
+    <br>
+    Room 400, Doctors Office Building, 66 North Pauline St. 
+    <br>
+    Office hours: Mondays 15:00-16:00, Thursdays 12:00-14:00 
+</p>
 
 ## Course guidelines
 <ul class="roman">
@@ -38,9 +40,7 @@ layout: default
  </ul>
  </li>
 </ul>
-
-## Office hours
-Thursdays 12:00-14:00 
+ 
 
 <!--*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.-->
 
