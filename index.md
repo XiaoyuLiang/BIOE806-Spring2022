@@ -9,6 +9,15 @@ Fall 2022, Thursdays 10:30-12:00.
 
 Room 400, Doctors Office Building, 66 North Pauline St. 
 
+<h3>Xiaoyu Liang</h3>
+<p class="address">
+    Assistant Professor
+    <br>
+    Department of Preventive Medicine, Division of Biostatistics
+    <br>
+    The University of Tennessee Health Science Center
+</p>
+
 Instructor: Xiaoyu Liang
 
 Assistant Professor
