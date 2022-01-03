@@ -35,12 +35,12 @@ Learn how to create a super quick easy website for a workshop by writing a few m
 Host it for free on GitHub with gh-pages, and share!
 Fun!
 
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+<!--*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.-->
 
 {% include toc.html %}
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+<!--Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.-->
 
 ------
 
-{% include template/credits.html %}
+<!--{% include template/credits.html %}-->
