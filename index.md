@@ -42,6 +42,11 @@ layout: default
  </li>
 </ul>
 
+### Course policies
+-Please be on time, and bring a laptop to class.
+-Assignments should be submitted on Blackboard by the time specified there.
+
+
 <!--*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.-->
 
 <!--{% include toc.html %}-->
