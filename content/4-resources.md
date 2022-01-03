@@ -3,6 +3,20 @@ title: Reference & Resources
 nav: Resources
 ---
 
+### R and RStudio resources
+- [R Reference Card by Tom Short](https://cran.r-project.org/doc/contrib/Short-refcard.pdf) 
+- [Quick-R](https://www.statmethods.net/): quick reference for learning R
+- [BasicBasics](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/): step-by-step guide to installing and using R for new users
+- [R for Data Science](https://r4ds.had.co.nz/index.html): an electronic book for many useful information about R
+- [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/): useful R cheat sheets with the most widely used commands.
+- [stackoverflow](https://stackoverflow.com/)if you google your problem, it will often take you here. Someone may have already asked your question and many people have answered the question in many different ways with useful tips. Take advantage of this!
+
+### R Markdown resources
+- [Markdown Basics](https://rmarkdown.rstudio.com/authoring_basics.html): quick references to the most commonly used R Markdown syntax
+- [Pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown): Markdown syntax
+- [rmarkdown.rstudio.com](https://rmarkdown.rstudio.com/lesson-1.html): Great overview for R Markdown basics. I strongly recommend to take a look!
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) This book is a free online version of [Chapman & Hall/CRC](https://www.routledge.com/R-Markdown-The-Definitive-Guide/Xie-Allaire-Grolemund/p/book/9781138359338). This online book contains almost everything about R Markdown. You will find this very useful.
+
 To learn about using `workshop-template-b`, the content pages of this demo provide documentation and examples (also check the [README](https://github.com/evanwill/workshop-template-b/blob/master/README.md)).
 
 Workshop sites using this template:
