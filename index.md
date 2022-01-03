@@ -19,6 +19,10 @@ layout: default
     Department of Preventive Medicine, Division of Biostatistics
     <br>
     The University of Tennessee Health Science Center
+    <br>
+    📧 xliang10@uthsc.edu
+    <br>
+    🌈 66 North Pauline St. Room 301
 </p>
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
