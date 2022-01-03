@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# Using R for Biostatistics II
+## Using R for Biostatistics II
 
 <p class="address">
     Instructor: Xiaoyu Liang
@@ -29,7 +29,7 @@ layout: default
     Office hours: Mondays 15:00-16:00, Thursdays 12:00-14:00 
 </p>
 
-### Course guidelines
+### Course Guidelines
 <ul class="roman">
  <li>Pre-requisites: BIOE805 or consent of instructor</li>   
  <li>For announcements, visit [UTHSC Blackboard](https://blackboard.uthsc.edu/)</li>
@@ -42,7 +42,7 @@ layout: default
  </li>
 </ul>
 
-### Course policies
+### Course Policies
 - Please be on time, and bring a laptop to class.
 - Assignments should be submitted on Blackboard by the time specified there.
 - Students are expected to follow the honor code.
