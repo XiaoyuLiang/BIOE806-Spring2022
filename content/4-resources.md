@@ -1,7 +1,7 @@
----
+<!-- ---  -->
 <!-- title: Reference & Resources -->
-nav: Resources
----
+<!-- nav: Resources  -->
+<!-- ---  -->
 
 ### R and RStudio resources
 - [R Reference Card by Tom Short](https://cran.r-project.org/doc/contrib/Short-refcard.pdf) 
