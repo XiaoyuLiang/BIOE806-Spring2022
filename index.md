@@ -43,8 +43,10 @@ layout: default
 </ul>
 
 ### Course policies
--Please be on time, and bring a laptop to class.
--Assignments should be submitted on Blackboard by the time specified there.
+- Please be on time, and bring a laptop to class.
+- Assignments should be submitted on Blackboard by the time specified there.
+- Students are expected to follow the honor code.
+- Co-operation between students is permitted, and should be cited (eg. “Jane Doe helped me debug the code for producing the scatterplot.”).
 
 
 <!--*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.-->
