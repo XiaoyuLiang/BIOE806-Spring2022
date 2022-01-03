@@ -27,13 +27,13 @@ featured-image: "/images/uidaho-workshop.jpg"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: Xiaoyu Liang
+# author: Xiaoyu Liang
 # your github username for link [optional]
-github_username: XiaoyuLiang
+# github_username: XiaoyuLiang
 # year or date published
-pub_year: 2022
+# pub_year: 2022
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/workshop-template-b
+# source-code: https://github.com/evanwill/workshop-template-b
 
 ##########
 # URL VARIABLES [optional!]
@@ -42,11 +42,11 @@ source-code: https://github.com/evanwill/workshop-template-b
 #
 # use url for the domain, e.g. https://evanwill.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url:
+# url:
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl:
+# baseurl:
 
 
 ##########
@@ -54,7 +54,7 @@ baseurl:
 #
 # leave this blank or comment out to NOT include google code
 # Add your google-analytics-id to automatically add the embed code, e.g. "UA-76328753-1"
-google-analytics-id:
+# google-analytics-id:
 
 ##########
 # ROBOTS EXCLUDE [optional!]
