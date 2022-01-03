@@ -37,7 +37,7 @@ Fun!
 
 <!--*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.-->
 
-{% include toc.html %}
+<!--{% include toc.html %}-->
 
 <!--Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.-->
 
