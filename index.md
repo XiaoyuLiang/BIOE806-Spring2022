@@ -9,6 +9,11 @@ Fall 2022, Thursdays 10:30-12:00.
 
 Room 400, Doctors Office Building, 66 North Pauline St. 
 
+Instructor: Xiaoyu Liang
+Assistant Professor
+Department of Preventive Medicine, Division of Biostatistics
+The University of Tennessee Health Science Center
+
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 A minimal Jekyll theme with Bootstrap for creating workshop websites.
