@@ -27,13 +27,20 @@ layout: default
 
 <!--{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}-->
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+## Course guidelines
+<ul class="roman">
+ <li>For announcements, visit [UTHSC Blackboard](https://blackboard.uthsc.edu/)</li>
+ <li>Add/drop deadlines: Wednesday, January 21, 2022</li>
+  <li>Campus COVID-19 guidelines:
+ <ul class="square">
+  <li>Students and faculty (vaccinated and non-vaccinated) are required to wear masks in classrooms, laboratories, instructional spaces, and any indoor events.</li>
+  <li>Social distancing will continue to be maintained in lecture halls, study spaces, and testing facilities with occupancy of every other seat.</li>
+ </ul>
+ </li>
+</ul>
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+## Office hours
+Thursdays 12:00-14:00 
 
 <!--*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.-->
 
