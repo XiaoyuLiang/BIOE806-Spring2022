@@ -6,6 +6,7 @@ layout: default
 # Using R for Biostatistics II
 
 Fall 2022, Thursdays 10:30-12:00.
+
 Room 400, Doctors Office Building, 66 North Pauline St. 
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
