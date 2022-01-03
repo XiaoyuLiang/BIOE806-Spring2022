@@ -20,7 +20,7 @@ layout: default
 </p>
 
 <!--{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}-->
-## Time and Place
+### Time and Place
 <p>
     Lectures: Thursdays 10:30-12:00.
     <br>
@@ -29,7 +29,7 @@ layout: default
     Office hours: Mondays 15:00-16:00, Thursdays 12:00-14:00 
 </p>
 
-## Course guidelines
+### Course guidelines
 <ul class="roman">
  <li>For announcements, visit [UTHSC Blackboard](https://blackboard.uthsc.edu/)</li>
  <li>Add/drop deadlines: Wednesday, January 21, 2022</li>
@@ -41,6 +41,8 @@ layout: default
  </li>
 </ul>
  
+ ### Pre-requisites
+ BIOE805 or consent of instructor
 
 <!--*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.-->
 
