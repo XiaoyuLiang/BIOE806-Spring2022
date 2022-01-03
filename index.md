@@ -5,26 +5,21 @@ layout: default
 
 # Using R for Biostatistics II
 
-Fall 2022, Thursdays 10:30-12:00.
+<p>
+    Fall 2022, Thursdays 10:30-12:00.
+    <br>
+    Room 400, Doctors Office Building, 66 North Pauline St. 
+</p>
 
-Room 400, Doctors Office Building, 66 North Pauline St. 
-
-<h3>Xiaoyu Liang</h3>
 <p class="address">
+    Instructor: Xiaoyu Liang
+    <br>
     Assistant Professor
     <br>
     Department of Preventive Medicine, Division of Biostatistics
     <br>
     The University of Tennessee Health Science Center
 </p>
-
-Instructor: Xiaoyu Liang
-
-Assistant Professor
-
-Department of Preventive Medicine, Division of Biostatistics
-
-The University of Tennessee Health Science Center
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
