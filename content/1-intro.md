@@ -1,9 +1,9 @@
 ---
-title: About
+title: BIOE806
 nav: About
 ---
 
-### BIOE806
+### Course Objectives
 `workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
 
 It works best for about 5 pages of instructions, plus index, all written in Markdown. 
