@@ -4,32 +4,31 @@ nav: About
 ---
 
 ### Course Objectives
-`workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
 
-It works best for about 5 pages of instructions, plus index, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
+ - Understand the model formula syntax for specifying regresison models
+ - Implement advanced regression techniques such as and generalized linear models (eg. logistic regression)
+ - Manipulate “messy” data into a “tidy” form
+ - Other topics such as survival analysis and hierarchical models may be covered depending on student interest
 
-### Why?
+### Grade Breakdown
+ - Participation (20%)
+ - HW Assignments (40%)
+ - Final project (40%)
 
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this pretty easy.
+### Grading
+ - A: 86-100
+ - B: 71-85
+ - C: 56-70
+ - D: 41-55
+ - F: 00-40
 
-It is a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) since anyone can make a copy and adapt!
+### Homework Guidelines
+ - Assignments should be submitted on [Blackboard](https://blackboard.uthsc.edu/ultra/institution-page).
+ - All assignments will be graded and carry equal weight.
+ - Feel free to work with other students. If you worked with other students, the co-operation should be cited (e.g. “Jane Doe helped me debug the code for producing the scatter plot.”).
+ - You are encouraged to meet me in my office hours for help on the homework problems after you have tried to solve the problems on your own. We can meet over zoom or in my office. You can find my zoom link on [Blackboard](https://blackboard.uthsc.edu/ultra/institution-page).
+ - For any late homework, you will get the half points of your actual grade for that homework.
 
-## GitHub Pages 
-
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
-It provides free static web hosting from any repository.
-Gh-pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
-
-Many organizations are using GitHub to collaboratively create and publish public workshop websites. 
-For example: 
-
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/)
-- this site!
 
 {% capture text %}Note:
 There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
