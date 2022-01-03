@@ -3,6 +3,7 @@ title: About
 nav: About
 ---
 
+### BIOE806
 `workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
 
 It works best for about 5 pages of instructions, plus index, all written in Markdown. 
