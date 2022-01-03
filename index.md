@@ -10,6 +10,7 @@ Room 400, Doctors Office Building, 66 North Pauline St.
 
 Instructor: Xiaoyu Liang
 Assistant Professor
+
 Department of Preventive Medicine, Division of Biostatistics
 The University of Tennessee Health Science Center
 
