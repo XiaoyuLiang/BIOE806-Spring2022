@@ -1,5 +1,5 @@
 ---
-title: Reference & Resources
+<!-- title: Reference & Resources -->
 nav: Resources
 ---
 
