@@ -41,6 +41,6 @@ Fun!
 
 <!--Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.-->
 
-------
+<!-- ------ -->
 
 <!--{% include template/credits.html %}-->
