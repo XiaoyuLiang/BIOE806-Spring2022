@@ -40,126 +40,126 @@ tr:hover {background-color: #D6EEEE;}
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 2</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 3</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 4</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 5</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 6</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 7</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 8</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 9</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 10</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 11</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 12</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 13</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 14</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 15</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 16</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 17</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 18</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
     <tr>
-    <td>Week 1</td>
+    <td>Week 19</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
