@@ -169,11 +169,5 @@ tr:hover {background-color: #D6EEEE;}
 
 </body>
 
-{% capture text %}
-1. Have a [GitHub](https://github.com) account.
-2. Optional: have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
-{% endcapture %}
-{% include card.html text=text header="Setup Overview" %}
-
 -------------
 
