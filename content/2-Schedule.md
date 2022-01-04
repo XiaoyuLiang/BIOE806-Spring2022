@@ -26,27 +26,146 @@ tr:hover {background-color: #D6EEEE;}
 
 <table>
   <tr>
-    <th>Date</th>
     <th>Week</th>
+    <th>Date</th>
     <th>Topic</th>
     <th>HW</th>
     <th>Due</th>
   </tr>
   <tr>
-    <td>Jan 13</td>
     <td>Week 1</td>
+    <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
-  <tr>
-    <td>Jan 13</td>
+    <tr>
     <td>Week 1</td>
+    <td>Jan 13</td>
     <td>Introduction and review</td>
     <td>HW 1</td>
     <td>Jan 20</td>
   </tr>
-  
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+    <tr>
+    <td>Week 1</td>
+    <td>Jan 13</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
+  </tr>
+
 </table>
 
 </body>
