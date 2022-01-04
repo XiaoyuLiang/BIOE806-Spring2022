@@ -58,6 +58,7 @@ th:nth-child(even),td:nth-child(even) {
   </tr>
 </table>
 </body>
+
 ### Homework Guidelines
  - Assignments should be submitted on [Blackboard](https://blackboard.uthsc.edu/ultra/institution-page).
  - All assignments will be graded and carry equal weight.
