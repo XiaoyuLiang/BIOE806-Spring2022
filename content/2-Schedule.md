@@ -22,34 +22,31 @@ tr:hover {background-color: #D6EEEE;}
 </head>
 <body>
 
-<h2>Hoverable Table</h2>
+<h2>Weekly Schedule</h2>
 
 <table>
   <tr>
-    <th>First Name</th>
-    <th>Last Name</th>
-    <th>Points</th>
+    <th>Date</th>
+    <th>Week</th>
+    <th>Topic</th>
+    <th>HW</th>
+    <th>Due</th>
   </tr>
   <tr>
-    <td>Peter</td>
-    <td>Griffin</td>
-    <td>$100</td>
+    <td>Jan 13</td>
+    <td>Week 1</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
   </tr>
   <tr>
-    <td>Lois</td>
-    <td>Griffin</td>
-    <td>$150</td>
+    <td>Jan 13</td>
+    <td>Week 1</td>
+    <td>Introduction and review</td>
+    <td>HW 1</td>
+    <td>Jan 20</td>
   </tr>
-  <tr>
-    <td>Joe</td>
-    <td>Swanson</td>
-    <td>$300</td>
-  </tr>
-  <tr>
-    <td>Cleveland</td>
-    <td>Brown</td>
-    <td>$250</td>
-  </tr>
+  
 </table>
 
 </body>
