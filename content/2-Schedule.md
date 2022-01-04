@@ -162,8 +162,8 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 19</td>
     <td>May 19</td>
     <td>Student presentations</td>
-    <td></td>
     <td>Final project</td>
+    <td>May 21</td>
   </tr>
 
 </table>
