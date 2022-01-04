@@ -14,8 +14,24 @@ nav: About
  - Participation (20%)
  - HW Assignments (40%)
  - Final project (40%)
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
 
-<table style="width:50%">
+tr:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
+}
+
+th:nth-child(even),td:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
+}
+</style>
+</head>
+<body>
+<table style="width:100%">
   <tr>
     <th>Grade</th>
     <th>Points</th>
@@ -41,7 +57,7 @@ nav: About
     <td style="text-align:center">00-40</td>
   </tr>
 </table>
-
+</body>
 ### Homework Guidelines
  - Assignments should be submitted on [Blackboard](https://blackboard.uthsc.edu/ultra/institution-page).
  - All assignments will be graded and carry equal weight.
