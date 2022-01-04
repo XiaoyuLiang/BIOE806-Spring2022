@@ -30,17 +30,12 @@ layout: default
 </p>
 
 ### Course Guidelines
-<ul class="roman">
- <li>Pre-requisites: BIOE805 or consent of instructor</li>   
- <li>For announcements, visit [UTHSC Blackboard](https://blackboard.uthsc.edu/) </li>
- <li>Add/drop deadlines: Wednesday, January 21, 2022</li>
-  <li>Campus COVID-19 guidelines:
- <ul class="square">
-  <li>Students and faculty (vaccinated and non-vaccinated) are required to wear masks in classrooms, laboratories, instructional spaces, and any indoor events.</li>
-  <li>Social distancing will continue to be maintained in lecture halls, study spaces, and testing facilities with occupancy of every other seat.</li>
- </ul>
- </li>
-</ul>
+- Pre-requisites: BIOE805 or consent of instructor
+- For announcements, visit [UTHSC Blackboard](https://blackboard.uthsc.edu/)
+- Add/drop deadlines: Wednesday, January 19, 2022
+- Campus COVID-19 guidelines:
+  - Students and faculty (vaccinated and non-vaccinated) are required to wear masks in classrooms, laboratories, instructional spaces, and any indoor events.
+  - Social distancing will continue to be maintained in lecture halls, study spaces, and testing facilities with occupancy of every other seat.
 
 ### Course Policies
 - Please be on time, and bring a laptop to class.
