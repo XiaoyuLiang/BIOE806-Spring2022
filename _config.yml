@@ -20,18 +20,29 @@ title: Using R for Biostatistics II
 # these do not visibility appear on the pages, but used for SEO
 description: "R programming for analyzing, visualizing, and working with data."
 keywords: "R programming, Biostatistics"
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/images/uidaho-workshop.jpg"
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
 featured-image: "/images/uidaho-workshop.jpg"
 # add search box to footer? true/false
 search: false
 
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/images/uidaho-workshop.jpg"
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
 # author settings for cc-by, appears in the footer and credits
 # author: Xiaoyu Liang
