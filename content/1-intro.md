@@ -14,6 +14,7 @@ nav: About
  - Participation (20%)
  - HW Assignments (40%)
  - Final project (40%)
+
 <table style="width:50%">
   <tr>
     <th>Grade</th>
@@ -39,26 +40,6 @@ nav: About
     <td style="text-align:center">F</td>
     <td style="text-align:center">00-40</td>
   </tr>
-</table>
-
-<table class="styled-table">
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Points</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Dom</td>
-            <td>6000</td>
-        </tr>
-        <tr class="active-row">
-            <td>Melissa</td>
-            <td>5150</td>
-        </tr>
-        <!-- and so on... -->
-    </tbody>
 </table>
 
 ### Homework Guidelines
