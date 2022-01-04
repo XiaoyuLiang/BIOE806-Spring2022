@@ -1,7 +1,6 @@
 ---
 title: Weekly Schedule
 nav: Schedule
-topics: GitHub; Optional Software
 ---
 
 <head>
