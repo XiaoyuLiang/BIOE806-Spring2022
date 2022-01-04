@@ -14,7 +14,7 @@ nav: About
  - Participation (20%)
  - HW Assignments (40%)
  - Final project (40%)
-<table style="width:300%">
+<table style="width:50%">
   <tr>
     <th>Grade</th>
     <th>Points</th>
@@ -40,13 +40,6 @@ nav: About
     <td style="text-align:center">00-40</td>
   </tr>
 </table>
-
-### Grading
- - A: 86-100
- - B: 71-85
- - C: 56-70
- - D: 41-55
- - F: 00-40
 
 ### Homework Guidelines
  - Assignments should be submitted on [Blackboard](https://blackboard.uthsc.edu/ultra/institution-page).
