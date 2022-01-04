@@ -22,7 +22,7 @@ layout: default
 <!--{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}-->
 ### Time and Place
 <p>
-    Lectures: Thursdays 10:00-12:00.
+    Lectures: Thursdays 10:30-12:00.
     <br>
     Room 402, Doctors Office Building, 66 North Pauline St. 
     <br>
