@@ -41,6 +41,26 @@ nav: About
   </tr>
 </table>
 
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Points</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Dom</td>
+            <td>6000</td>
+        </tr>
+        <tr class="active-row">
+            <td>Melissa</td>
+            <td>5150</td>
+        </tr>
+        <!-- and so on... -->
+    </tbody>
+</table>
+
 ### Homework Guidelines
  - Assignments should be submitted on [Blackboard](https://blackboard.uthsc.edu/ultra/institution-page).
  - All assignments will be graded and carry equal weight.
