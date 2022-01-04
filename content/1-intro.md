@@ -10,6 +10,13 @@ nav: About
  - Manipulate “messy” data into a “tidy” form
  - Other topics such as survival analysis and hierarchical models may be covered depending on student interest
 
+### Homework Guidelines
+ - Assignments should be submitted on [Blackboard](https://blackboard.uthsc.edu/ultra/institution-page) by the time specified there. For any late homework, you will get the half points of your actual grade for that homework.
+ - All assignments will be graded and carry equal weight.
+ - Students are expected to follow the honor code.
+ - Co-operation between students is permitted, and should be cited (eg. “Jane Doe helped me debug the code for producing the scatterplot.”).
+ - You are encouraged to meet me in my office hours for help on the homework problems after you have tried to solve the problems on your own. We can meet over zoom or in my office. You can find my zoom link on [Blackboard](https://blackboard.uthsc.edu/ultra/institution-page).
+
 ### Grading
  - Participation (20%)
  - HW Assignments (40%)
@@ -61,18 +68,6 @@ tr:nth-child(even) {
 </table>
 </body>
 
-### Course Policies
- - Please be on time, and bring a laptop to class.
- - Assignments should be submitted on Blackboard by the time specified there.
- - Students are expected to follow the honor code.
- - Co-operation between students is permitted, and should be cited (eg. “Jane Doe helped me debug the code for producing the scatterplot.”).
-
-### Homework Guidelines
- - Assignments should be submitted on [Blackboard](https://blackboard.uthsc.edu/ultra/institution-page) by the time specified there. For any late homework, you will get the half points of your actual grade for that homework.
- - All assignments will be graded and carry equal weight.
- - Students are expected to follow the honor code.
- - Co-operation between students is permitted, and should be cited (eg. “Jane Doe helped me debug the code for producing the scatterplot.”).
- - You are encouraged to meet me in my office hours for help on the homework problems after you have tried to solve the problems on your own. We can meet over zoom or in my office. You can find my zoom link on [Blackboard](https://blackboard.uthsc.edu/ultra/institution-page).
 
 {% capture text %}Note:
 There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
