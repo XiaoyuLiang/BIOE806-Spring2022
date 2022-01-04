@@ -30,26 +30,11 @@ layout: default
 </p>
 
 ### Course Guidelines
-- Pre-requisites: BIOE805 or consent of instructor
-- For announcements, visit [UTHSC Blackboard](https://blackboard.uthsc.edu/)
-- Add/drop deadlines: Wednesday, January 19, 2022
+- Pre-requisites: BIOE805 or consent of instructor.
+- Add/drop deadlines: Wednesday, January 19, 2022.
+- Please be on time, and bring a laptop to class.
+- For announcements, visit [UTHSC Blackboard](https://blackboard.uthsc.edu/).
 - Campus COVID-19 guidelines:
   - Students and faculty (vaccinated and non-vaccinated) are required to wear masks in classrooms, laboratories, instructional spaces, and any indoor events.
   - Social distancing will continue to be maintained in lecture halls, study spaces, and testing facilities with occupancy of every other seat.
 
-### Course Policies
-- Please be on time, and bring a laptop to class.
-- Assignments should be submitted on Blackboard by the time specified there.
-- Students are expected to follow the honor code.
-- Co-operation between students is permitted, and should be cited (eg. “Jane Doe helped me debug the code for producing the scatterplot.”).
-
-
-<!--*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.-->
-
-<!--{% include toc.html %}-->
-
-<!--Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.-->
-
-<!-- ------ -->
-
-<!--{% include template/credits.html %}-->
