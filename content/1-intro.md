@@ -17,17 +17,18 @@ nav: About
 
 <head>
 <style>
-table, th, td {
-  border: 1px solid black;
+table {
   border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: rgba(150, 212, 212, 0.4);
-}
-
-th:nth-child(even),td:nth-child(even) {
-  background-color: rgba(150, 212, 212, 0.4);
+  background-color: #D6EEEE;
 }
 </style>
 </head>
