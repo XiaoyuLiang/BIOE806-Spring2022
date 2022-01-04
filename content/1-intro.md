@@ -14,6 +14,7 @@ nav: About
  - Participation (20%)
  - HW Assignments (40%)
  - Final project (40%)
+
 <head>
 <style>
 table, th, td {
@@ -33,8 +34,8 @@ th:nth-child(even),td:nth-child(even) {
 <body>
 <table style="width:100%">
   <tr>
-    <th>Grade</th>
-    <th>Points</th>
+    <th style="text-align:center">Grade</th>
+    <th style="text-align:center">Points</th>
   </tr>
   <tr>
     <td style="text-align:center">A</td>
