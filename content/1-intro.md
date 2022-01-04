@@ -10,10 +10,36 @@ nav: About
  - Manipulate “messy” data into a “tidy” form
  - Other topics such as survival analysis and hierarchical models may be covered depending on student interest
 
-### Grade Breakdown
+### Grading
  - Participation (20%)
  - HW Assignments (40%)
  - Final project (40%)
+<table style="width:300%">
+  <tr>
+    <th>Grade</th>
+    <th>Points</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">86-100</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">71-85</td>
+  </tr>
+    <tr>
+    <td style="text-align:center">C</td>
+    <td style="text-align:center">56-70</td>
+  </tr>
+    <tr>
+    <td style="text-align:center">D</td>
+    <td style="text-align:center">41-55</td>
+  </tr>
+    <tr>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">00-40</td>
+  </tr>
+</table>
 
 ### Grading
  - A: 86-100
