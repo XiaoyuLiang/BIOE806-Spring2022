@@ -1,6 +1,6 @@
 ---
-title: Workshop Prep
-nav: Prep
+title: Weekly Schedule
+nav: Schedule
 topics: GitHub; Optional Software
 ---
 
