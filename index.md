@@ -6,7 +6,7 @@ layout: default
 ## Using R for Biostatistics II
 
 <p class="address">
-    Test Instructor: Xiaoyu Liang
+    Instructor: Xiaoyu Liang
     <br>
     Assistant Professor, Division of Biostatistics
     <br>
