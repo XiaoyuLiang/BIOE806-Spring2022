@@ -10,7 +10,7 @@ layout: default
     <br>
     Assistant Professor, Division of Biostatistics
     <br>
-    Department of Preventive Medicine 
+    Test Department of Preventive Medicine 
     <br>
     The University of Tennessee Health Science Center
     <br>
