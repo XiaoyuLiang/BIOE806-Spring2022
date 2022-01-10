@@ -24,13 +24,13 @@ keywords: "R programming, Biostatistics"
 # use a relative path to image in this repository or full URL
 featured-image: "/images/uidaho-workshop.jpg"
 # add search box to footer? true/false
-# search: false
+search: false
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/images/uidaho-workshop.jpg"
+avatar: "/images/uidaho-workshop.jpg"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-# round-avatar: true
+round-avatar: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
