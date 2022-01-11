@@ -35,7 +35,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 1</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
-    <td><a href="/HW/HW1.html" title="About Me">HW 1</a></td>
+    <td><a href="https://xiaoyuliang.github.io/BIOE806-Spring2022/HW/HW1.html" title="About Me">HW 1</a></td>
     <td>Jan 20</td>
   </tr>
     <tr>
