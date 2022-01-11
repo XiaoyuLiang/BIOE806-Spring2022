@@ -1,5 +1,5 @@
 ---
-title: Home
+title: BIOE806
 layout: default
 ---
 
