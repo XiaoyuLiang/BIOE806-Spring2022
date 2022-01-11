@@ -1,5 +1,5 @@
 ---
-title: Weekly Schedule
+title: Schedule
 nav: Schedule
 ---
 
