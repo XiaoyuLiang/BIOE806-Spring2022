@@ -1,5 +1,5 @@
 ---
-title: BIOE806
+title: About
 nav: About
 ---
 
