@@ -1,5 +1,5 @@
 --- 
-title: Reference & Resources
+title: Resources
 nav: Resources
 ---  
 
