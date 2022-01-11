@@ -1,4 +1,11 @@
 <footer class="site-footer bg-light mt-auto">
+      <div class="row align-items-center pb-5">
+        <div id="footer-title" class="col-md">
+          <a class="h5" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          <br>
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/">BIOE806 - Spring 2022</a> {{ site.pub_year }} {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a>{% else %}{{ site.author }}{% endif %}
+        </div>
+  <!--
   <div class="container">
     <nav>
       <ul class="nav justify-content-end">
@@ -33,4 +40,5 @@
         </div>
     </div>
   </div>
+  -->
 </footer>
