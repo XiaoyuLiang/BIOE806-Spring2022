@@ -42,7 +42,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 2</td>
     <td>Jan 20</td>
     <td><a href="/BIOE806-Spring2022/Lecture/2-Factor-Variables.html">Factor Variables</a></td>
-    <td>HW 2</td>
+    <td><a href="/BIOE806-Spring2022/HW/HW2.html">HW 2</a></td>
     <td>Jan 27</td>
   </tr>
     <tr>
