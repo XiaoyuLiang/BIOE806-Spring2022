@@ -35,27 +35,27 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 1</td>
     <td>Jan 13</td>
     <td>Introduction and review</td>
-    <td><a href="/BIOE806-Spring2022/HW/HW1.html" title="About Me">HW 1</a></td>
+    <td><a href="/BIOE806-Spring2022/HW/HW1.html">HW 1</a></td>
     <td>Jan 20</td>
   </tr>
     <tr>
     <td>Week 2</td>
     <td>Jan 20</td>
-    <td>Factor variables</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/2-Factor-Variables.html">Factor Variables</a></td>
     <td>HW 2</td>
     <td>Jan 27</td>
   </tr>
     <tr>
     <td>Week 3</td>
     <td>Jan 27</td>
-    <td>Model formulas</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/3-Model-Formula.html">Model Formula</a></td>
     <td>HW 3</td>
     <td>Feb 03</td>
   </tr>
     <tr>
     <td>Week 4</td>
     <td>Feb 03</td>
-    <td>Building linear models</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/4-Building-Linear-Models.html">Building Linear Models</a></td>
     <td></td>
     <td></td>
   </tr>
