@@ -26,7 +26,7 @@ layout: default
     <br>
     Room 402, Doctors Office Building, 66 North Pauline St. 
     <br>
-    Office hours: Thursdays 13:00-15:00 
+    Office hours: Mondays 12:00-13:00 and Thursdays 13:00-14:00
 </p>
 
 ### Course Guidelines

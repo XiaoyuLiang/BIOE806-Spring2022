@@ -34,7 +34,7 @@ tr:hover {background-color: #D6EEEE;}
   <tr>
     <td>Week 1</td>
     <td>Jan 13</td>
-    <td>Introduction and review</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/1-Review-and-Introduction.html">Review and Introduction</a></td>
     <td><a href="/BIOE806-Spring2022/HW/HW1.html">HW 1</a></td>
     <td>Jan 20</td>
   </tr>
