@@ -49,7 +49,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 3</td>
     <td>Jan 27</td>
     <td><a href="/BIOE806-Spring2022/Lecture/3-Regression-Analysis-Linear-Regression.html">Regression Analysis: Linear Regression (Also See Slides on Blackboard)</a></td>
-    <td>HW 2</td>
+    <td><a href="/BIOE806-Spring2022/HW/HW2.html">HW 2</a></td>
     <td>Feb 03</td>
   </tr>
     <tr>
