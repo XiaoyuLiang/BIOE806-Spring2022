@@ -62,7 +62,7 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 5</td>
     <td>Feb 10</td>
-    <tdGeneralized linear models</td>
+    <td>Generalized linear models</td>
     <td>HW 4</td>
     <td>Feb 17</td>
   </tr>
