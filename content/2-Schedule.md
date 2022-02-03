@@ -56,7 +56,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 4</td>
     <td>Feb 03</td>
     <td><a href="/BIOE806-Spring2022/Lecture/4-Regression-Analysis-Logistic-Regression.html">Regression Analysis: Logistic Regression <br />(Also See Slides on Blackboard)</a></td>
-    <td>HW 3</td>
+    <td><a href="/BIOE806-Spring2022/HW/HW3.html">HW 3</a></td>
     <td>Feb 10</td>
   </tr>
     <tr>
