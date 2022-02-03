@@ -57,7 +57,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Feb 03</td>
     <td><a href="/BIOE806-Spring2022/Lecture/4-Regression-Analysis-Logistic-Regression.html">Regression Analysis: Logistic Regression (Also See Slides on Blackboard)</a></td>
     <td>HW 3</td>
-    <td></td>
+    <td>Feb 10</td>
   </tr>
     <tr>
     <td>Week 5</td>
