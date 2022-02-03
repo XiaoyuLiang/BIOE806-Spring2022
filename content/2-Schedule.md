@@ -48,14 +48,14 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 3</td>
     <td>Jan 27</td>
-    <td><a href="/BIOE806-Spring2022/Lecture/3-Regression-Analysis-Linear-Regression.html">Regression Analysis: Linear Regression (Also See Slides on Blackboard)</a></td>
+    <td><a href="/BIOE806-Spring2022/Lecture/3-Regression-Analysis-Linear-Regression.html">Regression Analysis: Linear Regression <br />(Also See Slides on Blackboard)</a></td>
     <td><a href="/BIOE806-Spring2022/HW/HW2.html">HW 2</a> <a href="/BIOE806-Spring2022/HW/HW2-Notes.html">Notes</a></td>
     <td>Feb 03</td>
   </tr>
     <tr>
     <td>Week 4</td>
     <td>Feb 03</td>
-    <td><a href="/BIOE806-Spring2022/Lecture/4-Regression-Analysis-Logistic-Regression.html">Regression Analysis: Logistic Regression (Also See Slides on Blackboard)</a></td>
+    <td><a href="/BIOE806-Spring2022/Lecture/4-Regression-Analysis-Logistic-Regression.html">Regression Analysis: Logistic Regression <br />(Also See Slides on Blackboard)</a></td>
     <td>HW 3</td>
     <td>Feb 10</td>
   </tr>
