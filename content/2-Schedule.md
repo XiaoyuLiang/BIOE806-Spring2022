@@ -55,14 +55,14 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 4</td>
     <td>Feb 03</td>
-    <td><a href="/BIOE806-Spring2022/Lecture/4-Building-Linear-Models.html">Building Linear Models</a></td>
+    <td><a href="/BIOE806-Spring2022/Lecture/4-Regression-Analysis-Logistic-Regression.html">Regression Analysis: Logistic Regression (Also See Slides on Blackboard)</a></td>
     <td>HW 3</td>
     <td></td>
   </tr>
     <tr>
     <td>Week 5</td>
     <td>Feb 10</td>
-    <td>Logistic regression</td>
+    <tdGeneralized linear models</td>
     <td>HW 4</td>
     <td>Feb 17</td>
   </tr>
