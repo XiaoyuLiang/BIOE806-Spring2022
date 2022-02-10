@@ -63,15 +63,15 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 5</td>
     <td>Feb 10</td>
     <td><a href="/BIOE806-Spring2022/Lecture/5-Regression-Analysis-Generalize-Linear-Regression.html">Generalize Linear Regression <br />(Also See Slides on Blackboard)</a></td>
-    <td>HW 4</td>
+    <td>No Homework</td>
     <td>Feb 17</td>
   </tr>
     <tr>
     <td>Week 6</td>
     <td>Feb 17</td>
-    <td>Generalized linear models</td>
-    <td></td>
-    <td></td>
+    <td>Generalize Linear Regression</td>
+    <td>HW 4</td>
+    <td>Feb 24</td>
   </tr>
     <tr>
     <td>Week 7</td>
