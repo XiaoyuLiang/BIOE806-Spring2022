@@ -42,7 +42,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 2</td>
     <td>Jan 20</td>
     <td><a href="/BIOE806-Spring2022/Lecture/2-Factor-Variables.html">Factor Variables</a></td>
-    <td>No Homework</td>
+    <td>No HW</td>
     <td></td>
   </tr>
     <tr>
@@ -63,7 +63,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 5</td>
     <td>Feb 10</td>
     <td><a href="/BIOE806-Spring2022/Lecture/5-Regression-Analysis-Generalize-Linear-Regression.html">Generalize Linear Regression <br />(Also See Slides on Blackboard)</a></td>
-    <td>No Homework</td>
+    <td>No HW</td>
     <td></td>
   </tr>
     <tr>
