@@ -69,14 +69,14 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 6</td>
     <td>Feb 17</td>
-    <td>Generalize Linear Regression</td>
+    <td>Generalize Linear Regression: Model Selection and Evaluation</td>
     <td>HW 4</td>
     <td>Feb 24</td>
   </tr>
     <tr>
     <td>Week 7</td>
     <td>Feb 24</td>
-    <td>Generalized linear models</td>
+    <td>Generalize Linear Regression: Model Selection and Evaluation</td>
     <td>HW 5</td>
     <td>Mar 03</td>
   </tr>
