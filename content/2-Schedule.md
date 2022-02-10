@@ -62,7 +62,7 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 5</td>
     <td>Feb 10</td>
-    <td>Generalized linear models</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/5-Regression-Analysis-Generalize-Linear-Regression.html">Generalize Linear Regression <br />(Also See Slides on Blackboard)</a></td>
     <td>HW 4</td>
     <td>Feb 17</td>
   </tr>
