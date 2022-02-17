@@ -76,35 +76,35 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 7</td>
     <td>Feb 24</td>
-    <td>Generalize Linear Regression: Model Selection and Evaluation</td>
+    <td>Analysis of Variance: One-Way ANOVA</td>
     <td>HW 5</td>
     <td>Mar 03</td>
   </tr>
     <tr>
     <td>Week 8</td>
     <td>Mar 03</td>
-    <td>Log linear models</td>
+    <td>Analysis of Variance: Two-Way ANOVA</td>
     <td>HW 6</td>
     <td>Mar 10</td>
   </tr>
     <tr>
     <td>Week 9</td>
     <td>Mar 10</td>
-    <td>Censored data</td>
+    <td>Analysis of Variance: MANOVA</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>Week 10</td>
     <td>Mar 17</td>
-    <td>Tidyverse: Data transformations</td>
+    <td>Power Analysis: Review of Hypothesis Testing</td>
     <td>HW 7</td>
     <td>Mar 24</td>
   </tr>
     <tr>
     <td>Week 11</td>
     <td>Mar 24</td>
-    <td>Tidyverse: Tibbles</td>
+    <td>Power Analysis: Implementing Power Anaqlysis in R</td>
     <td>HW 8</td>
     <td>Mar 31</td>
   </tr>
