@@ -69,7 +69,7 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 6</td>
     <td>Feb 17</td>
-    <td><a href="/BIOE806-Spring2022/Lecture/6-Regression-Analysis-Review-and-Performance-Measures.html">Regression Analysis: Review and Performance Measures<br /></td>
+    <td><a href="/BIOE806-Spring2022/Lecture/6-Regression-Analysis-Review-and-Performance-Measures.html">Regression Analysis: Review and Performance Measures</a></td>
     <td>HW 4</td>
     <td>Feb 24</td>
   </tr>
