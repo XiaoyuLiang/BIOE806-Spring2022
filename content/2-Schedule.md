@@ -27,7 +27,7 @@ tr:hover {background-color: #D6EEEE;}
   <tr>
     <th>Week</th>
     <th>Date</th>
-    <th>Topic</th>
+    <th>Topic (Also See Slides on Blackboard)</th>
     <th>HW</th>
     <th>Due</th>
   </tr>
@@ -48,28 +48,28 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 3</td>
     <td>Jan 27</td>
-    <td><a href="/BIOE806-Spring2022/Lecture/3-Regression-Analysis-Linear-Regression.html">Regression Analysis: Linear Regression <br />(Also See Slides on Blackboard)</a></td>
+    <td><a href="/BIOE806-Spring2022/Lecture/3-Regression-Analysis-Linear-Regression.html">Regression Analysis: Linear Regression</a></td>
     <td><a href="/BIOE806-Spring2022/HW/HW2.html">HW 2</a> <a href="/BIOE806-Spring2022/HW/HW2-Notes.html">Notes</a></td>
     <td>Feb 03</td>
   </tr>
     <tr>
     <td>Week 4</td>
     <td>Feb 03</td>
-    <td><a href="/BIOE806-Spring2022/Lecture/4-Regression-Analysis-Logistic-Regression.html">Regression Analysis: Logistic Regression <br />(Also See Slides on Blackboard)</a></td>
+    <td><a href="/BIOE806-Spring2022/Lecture/4-Regression-Analysis-Logistic-Regression.html">Regression Analysis: Logistic Regression</a></td>
     <td><a href="/BIOE806-Spring2022/HW/HW3.html">HW 3</a> <a href="/BIOE806-Spring2022/HW/HW3-Notes.html">Notes</a></td>
     <td>Feb 10</td>
   </tr>
     <tr>
     <td>Week 5</td>
     <td>Feb 10</td>
-    <td><a href="/BIOE806-Spring2022/Lecture/5-Regression-Analysis-Generalize-Linear-Regression.html">Generalize Linear Regression <br />(Also See Slides on Blackboard)</a></td>
+    <td><a href="/BIOE806-Spring2022/Lecture/5-Regression-Analysis-Generalize-Linear-Regression.html">Regression Analysis: Generalize Linear Regression</a></td>
     <td>No HW</td>
     <td></td>
   </tr>
     <tr>
     <td>Week 6</td>
     <td>Feb 17</td>
-    <td>Generalize Linear Regression: Model Selection and Evaluation</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/6-Regression-Analysis-Review-and-Performance-Measures.html">Regression Analysis: Review and Performance Measures<br />(Also See Slides on Blackboard)</td>
     <td>HW 4</td>
     <td>Feb 24</td>
   </tr>
