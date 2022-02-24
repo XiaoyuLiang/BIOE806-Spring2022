@@ -76,7 +76,7 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 7</td>
     <td>Feb 24</td>
-    <td>Analysis of Variance: One-Way ANOVA</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/7-Analysis-of-Variance-One-Way-ANOVA.html">Analysis of Variance: One-Way ANOVA</a></td>
     <td>HW 5</td>
     <td>Mar 03</td>
   </tr>
