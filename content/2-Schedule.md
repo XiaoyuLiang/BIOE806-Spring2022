@@ -70,14 +70,14 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 6</td>
     <td>Feb 17</td>
     <td><a href="/BIOE806-Spring2022/Lecture/6-Regression-Analysis-Review-and-Performance-Measures.html">Regression Analysis: Review and Performance Measures</a></td>
-    <td><a href="/BIOE806-Spring2022/HW/HW4.html">HW 4</a></td>
+    <td><a href="/BIOE806-Spring2022/HW/HW4.html">HW 4</a> <a href="/BIOE806-Spring2022/HW/HW4-Notes.html">Notes</a></td>
     <td>Feb 24</td>
   </tr>
     <tr>
     <td>Week 7</td>
     <td>Feb 24</td>
     <td><a href="/BIOE806-Spring2022/Lecture/7-Analysis-of-Variance-One-Way-ANOVA.html">Analysis of Variance: One-Way ANOVA</a></td>
-    <td>HW 5</td>
+    <td<a href="/BIOE806-Spring2022/HW/HW5.html">HW 5</a></td>
     <td>Mar 03</td>
   </tr>
     <tr>
