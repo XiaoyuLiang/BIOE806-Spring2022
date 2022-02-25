@@ -7,10 +7,11 @@ nav: Schedule
 <style>
 table {
   border-collapse: collapse;
-  width: 110%;
+  width: 100%;
 }
 
 th, td {
+  white-space: nowrap;
   padding: 8px;
   text-align: left;
   border-bottom: 1px solid #DDD;
