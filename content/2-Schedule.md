@@ -84,7 +84,7 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 8</td>
     <td>Mar 03</td>
-    <td>Analysis of Variance: Two-Way ANOVA</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/8-Analysis-of-Variance-Two-Way-ANOVA.html">Analysis of Variance: Two-Way ANOVA</a></td>
     <td>HW 6</td>
     <td>Mar 10</td>
   </tr>
