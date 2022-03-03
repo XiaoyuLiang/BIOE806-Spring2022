@@ -85,15 +85,15 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 8</td>
     <td>Mar 03</td>
     <td><a href="/BIOE806-Spring2022/Lecture/8-Analysis-of-Variance-Two-Way-ANOVA.html">Analysis of Variance: Two-Way ANOVA</a></td>
-    <td>HW 6</td>
-    <td>Mar 10</td>
+    <td></td>
+    <td></td>
   </tr>
     <tr>
     <td>Week 9</td>
     <td>Mar 10</td>
     <td>Analysis of Variance: MANOVA</td>
-    <td></td>
-    <td></td>
+    <td>HW 6</td>
+    <td>Mar 17</td>
   </tr>
     <tr>
     <td>Week 10</td>
