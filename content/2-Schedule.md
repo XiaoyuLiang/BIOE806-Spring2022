@@ -105,16 +105,16 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 11</td>
     <td>Mar 24</td>
-    <td>Power Analysis: Implementing Power Analysis in R</td>
-    <td>HW 8</td>
-    <td>Mar 31</td>
+    <td>Break</td>
+    <td></td>
+    <td></td>
   </tr>
     <tr>
     <td>Week 12</td>
     <td>Mar 31</td>
-    <td>Break</td>
-    <td></td>
-    <td></td>
+    <td>Power Analysis: Implementing Power Analysis in R</td>
+    <td>HW 8</td>
+    <td>Apr 07</td>
   </tr>
     <tr>
     <td>Week 13</td>
