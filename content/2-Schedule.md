@@ -92,7 +92,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 9</td>
     <td>Mar 10</td>
     <td><a href="/BIOE806-Spring2022/Lecture/9-Analysis-of-Variance-MANOVA.html">Analysis of Variance: MANOVA</a></td>
-    <td>HW 6</td>
+    <td><a href="/BIOE806-Spring2022/HW/HW6.html">HW 6</a></td>
     <td>Mar 17</td>
   </tr>
     <tr>
