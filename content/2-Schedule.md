@@ -98,7 +98,7 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 10</td>
     <td>Mar 17</td>
-    <td>Power Analysis: Review of Hypothesis Testing</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/10-Power-Analysis-Review-of-Hypothesis-Testing.html">Power Analysis: Review of Hypothesis Testing</a></td>
     <td>HW 7</td>
     <td>Mar 24</td>
   </tr>
