@@ -92,14 +92,14 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 9</td>
     <td>Mar 10</td>
     <td><a href="/BIOE806-Spring2022/Lecture/9-Analysis-of-Variance-MANOVA.html">Analysis of Variance: MANOVA</a></td>
-    <td><a href="/BIOE806-Spring2022/HW/HW6.html">HW 6</a> <a href="/BIOE806-Spring2022/HW/HW6-Notes.html">Notes</a></td>
+    <td><a href="/BIOE806-Spring2022/HW/HW6.html">HW 6</a> </td>
     <td>Mar 17</td>
   </tr>
     <tr>
     <td>Week 10</td>
     <td>Mar 17</td>
     <td><a href="/BIOE806-Spring2022/Lecture/10-Power-Analysis-Review-of-Hypothesis-Testing.html">Power Analysis: Review of Hypothesis Testing</a></td>
-    <td><a href="/BIOE806-Spring2022/HW/HW7.html">HW 7</a> </td>
+    <td><a href="/BIOE806-Spring2022/HW/HW7.html">HW 7</a> <a href="/BIOE806-Spring2022/HW/HW7-Notes.html">Notes</a></td>
     <td>Mar 24</td>
   </tr>
     <tr>
