@@ -112,7 +112,7 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 12</td>
     <td>Mar 31</td>
-    <td>Power Analysis: Implementing Power Analysis in R</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/12-Power-Analysis-Implementing-Power-Analysis-in-R.html">Power Analysis: Implementing Power Analysis in R</a></td>
     <td>HW 8</td>
     <td>Apr 07</td>
   </tr>
