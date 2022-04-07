@@ -142,7 +142,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Apr 28</td>
     <td>Survival Analysis</td>
     <td>HW 10</td>
-    <td>May 0</td>
+    <td>May 05</td>
   </tr>
     <tr>
     <td>Week 17</td>
