@@ -119,28 +119,28 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 13</td>
     <td>Apr 07</td>
-    <td>Tidyverse: Tidy data</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/12-Power-Analysis-Implementing-Power-Analysis-in-R.html">Power Analysis: Implementing Power Analysis in R</a></td>
     <td>HW 9</td>
     <td>Apr 14</td>
   </tr>
     <tr>
     <td>Week 14</td>
     <td>Apr 14</td>
-    <td>Tidyverse: Relational data</td>
+    <td>Cluster Analysis</td>
     <td>HW 10</td>
     <td>Apr 21</td>
   </tr>
     <tr>
     <td>Week 15</td>
     <td>Apr 21</td>
-    <td>Tidyverse: Strings</td>
+    <td>Classsification</td>
     <td>HW 11</td>
     <td>Apr 28</td>
   </tr>
     <tr>
     <td>Week 16</td>
     <td>Apr 28</td>
-    <td>Divide and gather</td>
+    <td>Survival Analysis</td>
     <td></td>
     <td></td>
   </tr>
