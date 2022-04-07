@@ -119,30 +119,30 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 13</td>
     <td>Apr 07</td>
-    <td><a href="/BIOE806-Spring2022/Lecture/12-Power-Analysis-Implementing-Power-Analysis-in-R.html">Power Analysis: Implementing Power Analysis in R</a></td>
-    <td>HW 9</td>
-    <td>Apr 14</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/13-Power-Analysis-Implementing-Power-Analysis-in-R.html">Power Analysis: Implementing Power Analysis in R</a></td>
+    <td></td>
+    <td></td>
   </tr>
     <tr>
     <td>Week 14</td>
     <td>Apr 14</td>
     <td>Cluster Analysis</td>
-    <td>HW 10</td>
+    <td>HW 9</td>
     <td>Apr 21</td>
   </tr>
     <tr>
     <td>Week 15</td>
     <td>Apr 21</td>
     <td>Classsification</td>
-    <td>HW 11</td>
-    <td>Apr 28</td>
+    <td></td>
+    <td></td>
   </tr>
     <tr>
     <td>Week 16</td>
     <td>Apr 28</td>
     <td>Survival Analysis</td>
-    <td></td>
-    <td></td>
+    <td>HW 10</td>
+    <td>May 0</td>
   </tr>
     <tr>
     <td>Week 17</td>
