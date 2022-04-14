@@ -126,14 +126,14 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 14</td>
     <td>Apr 14</td>
-    <td>Cluster Analysis</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/14-Classification.html">Classsification</a></td>
     <td>HW 9</td>
     <td>Apr 21</td>
   </tr>
     <tr>
     <td>Week 15</td>
     <td>Apr 21</td>
-    <td>Classsification</td>
+    <td>Cluster Analysis</td>
     <td></td>
     <td></td>
   </tr>
