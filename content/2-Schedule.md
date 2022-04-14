@@ -127,7 +127,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 14</td>
     <td>Apr 14</td>
     <td><a href="/BIOE806-Spring2022/Lecture/14-Classification.html">Classsification</a></td>
-    <td>HW 9</td>
+    <td><a href="/BIOE806-Spring2022/HW/HW9.html">HW 9</a> </td>
     <td>Apr 21</td>
   </tr>
     <tr>
