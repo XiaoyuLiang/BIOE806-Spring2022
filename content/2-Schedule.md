@@ -141,15 +141,15 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 16</td>
     <td>Apr 28</td>
     <td><a href="/BIOE806-Spring2022/Lecture/16-Survival-Analysis.html">Survival Analysis</a></td>
-    <td>HW 10</td>
-    <td>May 05</td>
+    <td></td>
+    <td></td>
   </tr>
     <tr>
     <td>Week 17</td>
     <td>May 05</td>
-    <td>Meta analysis</td>
-    <td></td>
-    <td></td>
+    <td><a href="/BIOE806-Spring2022/Lecture/16-Survival-Analysis.html">Survival Analysis</a></td>
+    <td>HW 10</td>
+    <td>May 12</td>
   </tr>
     <tr>
     <td>Week 18</td>
