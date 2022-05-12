@@ -154,8 +154,8 @@ tr:hover {background-color: #D6EEEE;}
     <tr>
     <td>Week 18</td>
     <td>May 12</td>
-    <td><a href="/BIOE806-Spring2022/HW/HW11-Final-Project.html">Project Guidelines</a></td>
-    <td>Project Draft</td>
+    <td><a href="/BIOE806-Spring2022/Lecture/18-Review-and-Mediation-Analysis.html">Review and Mediation Analysis</a></td>
+    <td><a href="/BIOE806-Spring2022/HW/HW11-Final-Project.html">Project Draft</a></td>
     <td>May 17</td>
   </tr>
     <tr>
