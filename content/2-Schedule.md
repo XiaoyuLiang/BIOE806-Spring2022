@@ -148,7 +148,7 @@ tr:hover {background-color: #D6EEEE;}
     <td>Week 17</td>
     <td>May 05</td>
     <td><a href="/BIOE806-Spring2022/Lecture/16-Survival-Analysis.html">Survival Analysis</a></td>
-    <td><a href="/BIOE806-Spring2022/HW/HW10.html">HW 10</a> </td>
+    <td><a href="/BIOE806-Spring2022/HW/HW10.html">HW 10</a> <a href="/BIOE806-Spring2022/HW/HW10-Notes.html">Notes</a></td>
     <td>May 12</td>
   </tr>
     <tr>
